@@ -1,26 +1,3 @@
-# vuedemo
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# myProject
-# myProject
+# 静态网页
+该项目基于vue-3.2.1，Element-Plus-2.2.16 ,echarts- 5.3.3,vue-router-4.0.3,vuex-4.0.0，为主开发的后台个人项目展示。这个UI是以一个后台管理系统为基础，重新编写代码形成。
+只要首页完成，其余均为未完成。
